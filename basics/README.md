@@ -4,4 +4,5 @@
 2-bring me home changes the working directory to the user's home directory
 3-listfiles display current directory contents in a long format 
 4-listmorefiles displays the hidden files
-
+5-listfilesdigitonly diplay the user and group IDS numerically
+6-firstdirectory adding a directory script
