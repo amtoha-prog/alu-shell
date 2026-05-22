@@ -6,3 +6,5 @@
 4-listmorefiles displays the hidden files
 5-listfilesdigitonly diplay the user and group IDS numerically
 6-firstdirectory adding a directory script
+7-movethatfile adding a file in my first directory
+8-firstdelete deleting a file in my first directory
