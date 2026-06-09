@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Using the whole loop for bad luck and good lucik
 i=1
 
@@ -8,8 +7,8 @@ do
   if [ $i -eq 4 ]
   then
      echo "bad luck"
-   elif [ $i -eq 8 ] 
-   then 
+  elif [ $i -eq 8 ] 
+  then 
      echo "good luck"
   else
     echo "Best School"
